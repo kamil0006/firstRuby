@@ -3,7 +3,7 @@
 This is some code which showing some functionality in ruby. 
 
 ```
-Example of using this thing in read me file, very usefull
+Example of using this thing in readme file, very usefull
 
 ```
 
