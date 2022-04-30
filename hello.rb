@@ -104,14 +104,16 @@ puts get_day_name("dog")
 =end
 
 
-=begin
+
 index = 1
 while index <= 5
     puts index
     index += 1
     
 end
-=end
+
+
+
 
 =begin
 friendss = Array["Kevin", "Karen", "Oscar", "Amanda"]
